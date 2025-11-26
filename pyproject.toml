@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "xixspoof2"
-version = "1.0.1"
-description = "Python remake of animation-replacer-roblox (RBXLX native, RBXL best-effort). Improved deep scanning."
+version = "1.1.0"
+description = "Roblox animation replacer with cookie persistence, progress bar, X-CSRF, strict/--deep scan, and RBXL best-effort."
 authors = [{ name = "xixfaces", email = "you@example.com" }]
 readme = "README.md"
 requires-python = ">=3.9"
